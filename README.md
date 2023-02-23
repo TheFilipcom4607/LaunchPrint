@@ -18,6 +18,8 @@ git clone https://github.com/TheFilipcom4607/LaunchPrint.git
 cd LaunchPrint
 python main.py
 ```
+## Demo
+<img src="demo.gif" alt="demo" style="width:300px;height:300px;">
 
 ## Contributing
 
@@ -26,8 +28,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Demo
-<img src="demo.gif" alt="demo" style="width:300px;height:300px;">
 
 ## License
 
