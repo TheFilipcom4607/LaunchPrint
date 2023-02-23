@@ -14,7 +14,7 @@ git clone https://github.com/TheFilipcom4607/LaunchPrint.git
 
 ## Usage
 
-```cmd
+```python
 # go to LaunchPrint folder
 cd LaunchPrint
 
