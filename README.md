@@ -14,8 +14,11 @@ git clone https://github.com/TheFilipcom4607/LaunchPrint.git
 
 ## Usage
 
-```python
+```cmd
+# go to LaunchPrint folder
 cd LaunchPrint
+
+# run "main.py" file
 python main.py
 ```
 ## Demo
