@@ -21,6 +21,7 @@ cd LaunchPrint
 # run "main.py" file
 python main.py
 ```
+program will ask you what you want to print, when it does just type something and look at your launchpad
 ## Demo
 <img src="demo.gif" alt="demo" style="width:300px;height:300px;">
 
